@@ -1,0 +1,2 @@
+fastapi[all]==0.111.1
+fillpdf==0.7.3
